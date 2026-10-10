@@ -70,7 +70,7 @@ export const PRODUCTS: Product[] = [
     keyIngredients: ["Multi-Molecular Hyaluronic Acid", "Tremella Snow Mushroom", "Organic Rose Hydrosol", "Niacinamide"],
     howToUse: "Apply 3-4 drops morning and evening onto clean, damp skin. Follow with your favourite moisturizer.",
     image: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=900&q=80",
-    secondaryImage: "https://images.unsplash.com/photo-1608248597359-54876b6d5140?auto=format&fit=crop&w=900&q=80",
+    secondaryImage: "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=80",
     isBestseller: true,
   },
   {
@@ -170,7 +170,7 @@ export const PRODUCTS: Product[] = [
     size: "50ml / 1.7 fl oz",
     keyIngredients: ["10% THD Ascorbate (Vitamin C)", "Ferulic Acid", "Kakadu Plum", "Squalane"],
     howToUse: "Smooth onto clean skin each morning prior to applying your daily sunscreen SPF.",
-    image: "https://images.unsplash.com/photo-1608248597359-54876b6d5140?auto=format&fit=crop&w=900&q=80",
+    image: "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=900&q=80",
     secondaryImage: "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=900&q=80",
     isBestseller: true,
   },
@@ -187,7 +187,7 @@ export const PRODUCTS: Product[] = [
     keyIngredients: ["Plant Squalane", "Murumuru Butter", "French Lavender", "White Amber Resin"],
     howToUse: "Massage all over damp body skin following a warm bath or shower.",
     image: "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=900&q=80",
-    secondaryImage: "https://images.unsplash.com/photo-1512290900672-1f5be6f9e2f4?auto=format&fit=crop&w=900&q=80",
+    secondaryImage: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=900&q=80",
     isBestseller: true,
   },
   {

@@ -18,7 +18,7 @@ export default function BrandStorySection() {
             <div className="lg:col-span-6 relative">
               <div className="relative aspect-[4/5] sm:aspect-[3/4] lg:aspect-[4/5] w-full overflow-hidden bg-[#F3ECE3] shadow-lg">
                 <Image
-                  src="https://images.unsplash.com/photo-1556228722-d0b5be7490bf?auto=format&fit=crop&w=1000&q=80"
+                  src="https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=1000&q=80"
                   alt="Maison Beauté Botanical Studio & Ingredients"
                   fill
                   className="object-cover object-center"
